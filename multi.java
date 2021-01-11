@@ -1,1 +1,1 @@
-this is multiplication file a*b;
+this is multiplication file a*b=12;
